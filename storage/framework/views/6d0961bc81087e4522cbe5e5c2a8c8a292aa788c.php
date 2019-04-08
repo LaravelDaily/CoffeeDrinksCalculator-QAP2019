@@ -1,0 +1,1 @@
+<canvas id="<?php echo e($options['chart_name'] ?? 'myChart'); ?>"></canvas>
